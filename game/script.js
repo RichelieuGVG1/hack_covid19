@@ -103,13 +103,13 @@ const updateLife = () => document.getElementsByClassName('life')[0].innerText = 
 const geTime = () => {
 	cptTime--;
 
-	if(cptTime==176){
+	if(cptTime==173){
 		audio_reload.volume=0.6;
 		audio_reload.play();
 
 	}
 
-	if(cptTime==178){
+	if(cptTime==175){
 		audio.volume=0.2;
 		audio.play();
 
