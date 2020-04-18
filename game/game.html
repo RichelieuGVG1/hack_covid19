@@ -1,0 +1,84 @@
+<!--
+  NAME : HELICOPTER | CORONAVIRUS
+  DATE : March 28, 2020 
+  AUTHOR : lolo
+  
+  image virus => https://www.flaticon.com/
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src='script.js'></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>CORONA_GAME</title>
+    <link rel="shortcut icon" href="https://vk.com/doc406806074_544924992?hash=94f4e2e399384476ac&dl=377ae64c72ff467aa8" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+  </head>
+  <body>
+   
+    <canvas id="canvas"></canvas>
+    
+    <div id="time">120</div>
+    
+    <div id="infos">
+      <div class="info">TIMER</div>
+      <div class="info">LIFE</div>
+      <div class="info">KILL</div>
+      <div class="info">LOST</div>
+    </div>
+    
+    <div id="infosval">
+       <div class="info time">180</div>
+       <div class="info life">100%</div>
+       <div class="info kill">0</div>
+       <div class="info lost">0</div>
+    </div>
+    
+    <div id='ufo'>
+      <div id='ufo-body'>
+
+        <div id='ufo-main'>
+          <div id='head'>
+            <div id='cir'></div>
+          </div>
+          <div class='dot' id='dot1'></div>
+          <div class='dot' id='dot2'></div>
+          <div class='dot' id='dot3'></div>
+        </div>
+
+      </div>
+      
+    </div>
+      
+    
+    <div id="commandes">
+      <div class="btn up">UP</div>
+      <div class="btn shoot">SHOOT</div>
+      <div class="btn down">DOWN</div>
+    </div>
+    
+    <div id="beginning">
+      <h1>Unknown Flying Object VS COVID-19</h1>
+      <p>
+        <span style="font-size:1.3em">You have only 180 seconds</span> <br><br><br>
+        Kill as many viruses, as possible!<br><br>
+        Be careful - not to touch the virus!
+      </p>
+      <div class="btnplay" onClick="start()">PLAY</div>
+    </div>
+    
+    <div id="finish">
+        <h2>END &nbsp; GAME</h2>
+        <p>
+          <span id="state" style="font-size:1.3em">YOU LOSE IN 65 seconds</span><br><br><br>
+          <span id="cptkill">5</span><br><br>
+          <span id="cptlost">10</span>
+        </p>
+        <div id='container'>
+        <div class="btnplay" onClick="retry()">RESTART</div>
+        <a href='../index.html' class="btnplay">GO BACK<a>
+      </div>
+    </div> 
+    
+  </body>
+</html>
