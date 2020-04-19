@@ -214,7 +214,7 @@ const checkTimer = () =>  {
 
 const start = () => {
 	document.getElementById('beginning').style.display = 'none';
-	intervalVirus = setInterval(newVirus, 1000);
+	intervalVirus = setInterval(newVirus, 500);
 };
 
 const lose = () => {
