@@ -252,3 +252,162 @@ button{
 a{
 	text-decoration: none;
 }
+
+
+
+
+.questionTree{
+	background-color: transparent;
+	width: 70%;
+	border: 5px solid white;
+	border-radius: 10px;
+	margin-top: 50px;
+	color: white;
+	font-size: 40px;
+	margin-left: 16%;
+	height: 300px;
+}
+.class-box{
+	width: 100%;
+}
+
+#return{
+	margin-left: 40%;
+
+	width: 20%;
+	height: 30px;
+	color: white;
+	background-color: transparent;
+	font-size: 20px;
+	margin-top: 30px;
+	border: 5px solid white;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 5px;
+	cursor: pointer;
+}
+.buttons{
+	padding-left: 80px;
+	padding-bottom: 20px;
+
+	width: 22px;/*СЮРПРАЙЗ ЕПТА! ПАСХАЛОЧКА НАХУЙ! ПЕРЛ ХАРБОР БЛЯТЬ!*/
+	display: table;
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+.questionTree .question{
+    height: 50px;
+    width: 98%;
+    padding-left: 20px;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+
+
+#huy{
+	position: absolute;
+	text-align: center;
+	background-color: transparent;
+	color: white;
+	font-size: 22px;
+	margin-top: 30px;
+	border-radius: 10px;
+	width: 200px;
+	height: 50px;
+	border: 5px solid white;
+	margin-left: 22%;
+}
+
+#select, #select1{
+	margin-right: 40px;
+	padding-right: 30px;
+	font-size: 30px;
+	color: white;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	padding-top: 50px;
+}
+
+#last{
+	display: none;
+}
+table{
+	margin-top: -60px;
+	width: 100%;
+	height: 200px;
+}
+
+.bot{
+	font-size: 30px;
+	padding-top: -20px;
+	cursor: pointer;
+}
+
+.altitude{
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.main{
+	
+	font-size: 30px;
+}
+
+.box{
+	width: 80%;
+	background-color: white;
+	border-radius: 10px;
+	height: 300px;
+	color: black;
+
+	display: flex;
+	justify-content: space-around;
+
+}
+img{
+	
+	height: 300px;
+	border-top-left-radius:10px;
+	
+}
+
+h2, h4{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 30px;
+}
+#content{
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+}
+
+
+
+#sport1, 
+#sport2,
+#sport3,
+#auto1,
+#auto2,
+#auto3,
+#cook1,
+#cook2,
+#cook3,
+#mu1,
+#mu2,
+#mu3,
+#cre1,
+#cre2,
+#cre3,
+#it1,
+#it2,
+#it3
+{
+	display: none;
+}
