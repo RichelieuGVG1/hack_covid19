@@ -9,7 +9,8 @@
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<link rel="stylesheet" type="text/css" href="css/styles-burger.css">
 	<script src='js/jquery-3.4.1.min.js'></script>
-	
+
+	<script src="script.js"></script>
 	<script src="js/slideout.min.js"></script>
 
 	<script type="text/javascript">
@@ -77,12 +78,676 @@
 			
 		</div>
 
-		<h1 style="font-size: 40px; margin-top: 130px; margin-bottom: -20px;">Safety knowledge test from COVID-19</h1>
+		<h1 style="font-size: 40px; margin-top: 130px; margin-bottom: -20px;">Test for saving mental health</h1><br>
 
-	<iframe align='center' style="padding-top: 50px; width: 1500px;" src="https://docs.google.com/forms/d/e/1FAIpQLSeoxnbkhnG-G_teL82IMoP7Is7ws8GFEnQSONmdWSD62KP9Lg/viewform?embedded=true" height="914" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+	<div class='questionTree' id='delete'>
+		<div class="question">Please, pass this test and we will help you!</div>
+    <div class="buttons"></div>
+	</div>
+
+<div class='questionTree' id='last'>
+	<div class="question">And the last one. Select one of your hobbies</div>
+    <div class="altitude" style="margin-top: 50px;">
+    	<div class="bot" onclick="h1()" id="1">●Sports</div>
+    	<div class="bot" onclick="h2()" id="2">●Creation</div>
+    	<div class="bot" onclick="h3()" id="3">●Cooking</div>
+    </div>
+    <div class="altitude">
+    	<div class="bot" onclick="h4()" id="4">●Auto</div>
+    	<div class="bot" onclick="h5()" id="5">●Video games and IT</div>
+    	<div class="bot" onclick="h6()" id="6">●Music</div>
+    </div>
+</div>
+
+
+<div class='main' id='sport1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUPL">
+		</div>
+
+		<div>
+			<h2>Legend 17</h2>
+			<h4>Legend #17 tells the story of hockey player Valery Kharlamov, a hero of the epic USSR-Canada game played on September 2, 1972.</h4>
+	</div>
+		</div>
+		
+		</div>
+	</div>
+
+
+<div class='main' id='sport2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUTA">
+		</div>
+
+		<div>
+			<h2>Rocky</h2>
+			<h4>Rocky is a 1976 American sports drama film directed by John G. Avildsen, written by and starring Sylvester Stallone.</h4>
+	</div>
+		</div>
+		
+		</div>
+	</div>
+
+<div class='main' id='sport3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUWd">
+		</div>
+
+		<div>
+			<h2>Coach Carter</h2>
+			<h4>Coach Carter is a 2005 American biographical teen sports drama film starring Samuel L. Jackson and directed by Thomas Carter.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+<div class='main' id='it1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUfn">
+		</div>
+
+		<div>
+			<h2>Blackhat</h2>
+			<h4>Blackhat is a 2015 American action thriller film produced and directed by Michael Mann and starring Chris Hemsworth, Tang Wei, Viola Davis</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='it2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUkM">
+		</div>
+
+		<div>
+			<h2>Ghost in the Shell</h2>
+			<h4>Ghost in the Shell is a 2017 American science fiction action film directed by Rupert Sanders and written by Jamie Moss, William Wheeler and Ehren Kruger</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+<div class='main' id='it3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUoW">
+		</div>
+
+		<div>
+			<h2> Mr. Robot</h2>
+			<h4>MR. ROBOT is a psychological thriller that follows a young programmer who works as a cyber-security engineer by day and a vigilante hacker by night.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+
+
+
+
+<div class='main' id='cre1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://clck.ru/NAUrs">
+		</div>
+
+		<div>
+			<h2>Little ashes</h2>
+			<h4>Little Ashes is a 2008 Spanish-British drama film set against the backdrop of Spain during the 1920s and 1930s, as three of the era's most creative young talents</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='cre2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://m.media-amazon.com/images/M/MV5BZDU0NjJkNGQtOGY0ZS00MTEyLTk4NDEtODA5MTc4NGY1NjZkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY1200_CR89,0,630,1200_AL_.jpg">
+		</div>
+
+		<div>
+			<h2>Pollock</h2>
+			<h4>Pollock is a 2000 American biographical film which tells the life story of American painter Jackson Pollock. It stars Ed Harris, Marcia Gay Harden</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='cre3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d6/Girl_with_a_pearl_earring.jpg/202px-Girl_with_a_pearl_earring.jpg">
+		</div>
+
+		<div>
+			<h2>Girl with a Pearl Earring</h2>
+			<h4>Girl with a Pearl Earring is a 2003 drama film directed by Peter Webber. The screenplay was adapted by screenwriter Olivia Hetreed, based on the 1999 novel of the same name by Tracy Chevalier.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='mu1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/5a/Walk_the_line_poster.jpg/202px-Walk_the_line_poster.jpg">
+		</div>
+
+		<div>
+			<h2>Walk the Line</h2>
+			<h4>Walk the Line is a 2005 American biographical musical romantic drama film directed by James Mangold. The screenplay, written by Mangold and Gill Dennis</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='mu2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://www.kino-teatr.ru/movie/posters/big/5/32335.jpg">
+		</div>
+
+		<div>
+			<h2>The Boat That Rocked</h2>
+			<h4>The Boat That Rocked is a 2009 British comedy film written and directed by Richard Curtis with pirate radio in the United Kingdom during the 1960s as its setting.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='mu3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://m.media-amazon.com/images/M/MV5BOGJmY2YzZjYtNjRkMy00YTQ2LWI0YzMtNDgxMmQ3NTVjNWI4XkEyXkFqcGdeQXVyODg5NTg2NDU@._V1_UY268_CR0,0,182,268_AL_.jpg">
+		</div>
+
+		<div>
+			<h2>Heavy Trip</h2>
+			<h4>Heavy Trip's heartfelt humor and fully realized characters make this a journey well worth taking - and one of the best rock comedies in recent memory.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+
+<div class='main' id='cook1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://upload.wikimedia.org/wikipedia/ru/0/00/Julie_and_julia.jpg">
+		</div>
+
+		<div>
+			<h2>Julie & Julia</h2>
+			<h4>Julie & Julia is a 2009 American comedy-drama film written and directed by Nora Ephron starring Meryl Streep, Amy Adams, Stanley Tucci, and Chris Messina.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='cook2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTUErn9OTS8-mhMsAY9X6Q53-jrH3HRZPoe0JZkJU-jf0jM-rr">
+		</div>
+
+		<div>
+			<h2>Ratatouille</h2>
+			<h4>Ratatouille is a 2007 American computer-animated comedy film produced by Pixar and released by Walt Disney Pictures.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+<div class='main' id='cook3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://www.kinopoisk.ru/images/film_big/7572.jpg">
+		</div>
+
+		<div>
+			<h2>Big Night</h2>
+			<h4>Big Night is a 1996 American comedy-drama film co-directed by Campbell Scott and Stanley Tucci. The film stars Tucci, alongside Minnie Driver</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='auto1'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://www.kinopoisk.ru/images/film_big/678975.jpg">
+		</div>
+
+		<div>
+			<h2>Need for Speed</h2>
+			<h4>Need for Speed is a 2014 sports action thriller film directed and co-edited by Scott Waugh and written by George and John Gatins. It is the film adaptation of the racing video game franchise of the same name by Electronic Arts.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='auto2'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://www.kinopoisk.ru/images/film_big/7572.jpg">
+		</div>
+
+		<div>
+			<h2>Nitro</h2>
+			<h4>Nitro is a 2007 Canadian action film. Directed by Alain Desrochers, the film stars Guillaume Lemay-Thivierge as Max</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+<div class='main' id='auto3'>
+	<p style="color: white;">Congratulations! You have passed the test! Specially for you we have chosen some books and films!</p>
+	<div id='content'>
+		<div class='box'>
+			<div>
+			<img src="https://www.filmrip.ru/uploads/posts/2019-05/1558170797_1558170762.webp">
+		</div>
+
+		<div>
+			<h2>Gone in 60 Seconds</h2>
+			<h4>Gone in 60 Seconds (also known as Gone in Sixty Seconds) is a 2000 American action heist film starring Nicolas Cage, Angelina Jolie, Giovanni Ribisi, Christopher Eccleston, Robert Duvall, Vinnie Jones, and Will Patton.</h4>
+	</div>
+		</div>
+		
+		</div>
+</div>
+
+
+	<a href="test.html" s><div id='return'>Restart test</div></a>
+</div>
+
+	
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var questionTree = function (selector) {
+
+    var nowQuestion,
+        arrayQuestions = [],
+        self = this,
+        select = document.querySelector(selector),
+
+        quest = function (questions, arrAnswer, arrToQuestion) {
+            this.question = questions;
+            this.arrAnswer = arrAnswer;
+            this.arrToQuestion = arrToQuestion;
+        };
+
+    this.addQuestion = function (questions, arrAnswer, arrToQuestion) {
+        arrayQuestions.push(new quest(questions, arrAnswer, arrToQuestion));
+    };
+
+    this.startQuestions = function() {
+          var buttonStart = document.createElement('input');
+          buttonStart.type = "button";
+          buttonStart.value = "Start";
+          buttonStart.id = "huy";
+          select.querySelector(".buttons").appendChild(buttonStart);
+          nowQuestion = 0;
+          buttonStart.addEventListener("click",printQuestion);
+     };
+
+    function nextQuestion(event) {
+    	huy();
+        nowQuestion = +event.target.data;
+        printQuestion();
+    }
+
+    function nextQuestion1(event) {
+        nowQuestion = +event.target.data;
+        printQuestion();
+    }
+    var k=0;
+    function printQuestion() {
+        select.querySelector(".question").innerHTML = arrayQuestions[nowQuestion].question;
+        if(arrayQuestions[nowQuestion].arrAnswer[0] != "end"){
+         printButton();
+        }else{
+            delButton(select.querySelector(".buttons"));
+            self.startQuestions();
+
+            var k=huy()-1;
+            showAfter(k);
+        }
+    }
+    
+    function printButton(){
+    	
+        var q = arrayQuestions[nowQuestion].arrAnswer.length,
+            selectButton = select.querySelector(".buttons");
+
+            delButton(selectButton);
+
+            var val = arrayQuestions[nowQuestion].arrAnswer[0],
+                nxt = arrayQuestions[nowQuestion].arrToQuestion[0],
+                newButton = document.createElement('input');
+                
+               // newButton.onclick=function() {
+                //	i++;
+    			//	alert(i);
+				//}
+			
+
+                newButton.type = "button";
+                newButton.id = "select";
+                newButton.data = nxt;
+                newButton.value = val;
+                newButton.addEventListener("click",nextQuestion);
+            selectButton.appendChild(newButton);
+
+            var val = arrayQuestions[nowQuestion].arrAnswer[1],
+                nxt = arrayQuestions[nowQuestion].arrToQuestion[1],
+                newButton = document.createElement('input');
+
+                newButton.type = "button";
+                newButton.id = "select1";
+                newButton.data = nxt;
+                newButton.value = val;
+                newButton.addEventListener("click",nextQuestion1);
+            selectButton.appendChild(newButton);
+        
+
+    }
+
+    function delButton(selector){
+        while (selector.firstChild) {
+            selector.removeChild(selector.firstChild);
+        }
+    }
+
+    var i=0;
+    function huy(){ 
+    	i++;
+    	/*var n=i.toString();*/
+    	/*alert(n+' huy');*/
+
+    	return i;
+    	
+    }
+
+    function showAfter(k){
+    	
+
+    	document.getElementById('delete').style.display = 'none';
+    	var n=k.toString();
+    	
+    	document.getElementById('last').style.display = 'block';
+
+    	bot=document.getElementById('1');
+    	bot.addEventListener("click", h1);
+
+    	bot=document.getElementById('2');
+    	bot.addEventListener("click", h2);
+
+    	bot=document.getElementById('3');
+    	bot.addEventListener("click", h3);
+
+    	bot=document.getElementById('4');
+    	bot.addEventListener("click", h4);
+
+    	bot=document.getElementById('5');
+    	bot.addEventListener("click", h5);
+
+    	bot=document.getElementById('6');
+    	bot.addEventListener("click", h6);
+
+    }
+
+
+
+
+    function end(thing, num){
+    	
+
+    	var count = num;
+    	document.getElementById('last').style.display = 'none';
+    	if (thing=='sport') {
+
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('sport1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('sport2').style.display = 'block';
+    			document.getElementById('sport1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('sport3').style.display = 'block';
+    			document.getElementById('sport2').style.display = 'none';
+    			document.getElementById('sport1').style.display = 'none';
+    		}
+    	}
+    	if (thing=='creation') {
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('cre1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('cre2').style.display = 'block';
+    			document.getElementById('cre1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('cre3').style.display = 'block';
+    			document.getElementById('cre2').style.display = 'none';
+    			document.getElementById('cre1').style.display = 'none';
+    		}
+    	}
+    	if (thing=='cook') {
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('cook1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('cook2').style.display = 'block';
+    			document.getElementById('cook1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('cook3').style.display = 'block';
+    			document.getElementById('cook2').style.display = 'none';
+    			document.getElementById('cook1').style.display = 'none';
+    		}
+    	}
+    	if (thing=='auto') {
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('auto1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('auto2').style.display = 'block';
+    			document.getElementById('auto1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('auto3').style.display = 'block';
+    			document.getElementById('auto2').style.display = 'none';
+    			document.getElementById('auto1').style.display = 'none';
+    		}
+    	}
+    	if (thing=='video') {
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('it1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('it2').style.display = 'block';
+    			document.getElementById('it1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('it3').style.display = 'block';
+    			document.getElementById('it2').style.display = 'none';
+    			document.getElementById('it1').style.display = 'none';
+    		}
+    	}
+    	if (thing=='music') {
+    		if (count>=0 || cout<=4) {
+    			document.getElementById('mu1').style.display = 'block';
+    		}
+    		if (count>=5 || cout<=10) {
+    			document.getElementById('mu2').style.display = 'block';
+    			document.getElementById('mu1').style.display = 'none';
+    		}
+    		if (count>=11 || cout<=15) {
+    			document.getElementById('mu3').style.display = 'block';
+    			document.getElementById('mu2').style.display = 'none';
+    			document.getElementById('mu1').style.display = 'none';
+    		}
+    	}
+    	
+
+
+    }
+
+
+
+
+    function h1(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+    	var num = k;
+    	var thing = 'sport';
+    	end(thing, num);
+    }
+    function h2(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+		var num = k;
+    	var thing = 'creation';
+    	end(thing, num);
+    }
+    function h3(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+    	var num = k;
+    	var thing = 'cook';
+    	end(thing, num);
+
+    }
+    function h4(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+    	var num = k;
+    	var thing = 'auto';
+    	end(thing, num);
+
+    }
+    function h5(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+    	var num = k;
+    	var thing = 'video';
+    	end(thing, num);
+
+    }
+    function h6(){
+    	var k=huy()-2;
+    	var n=k.toString();
+
+    	var num = k;
+    	var thing = 'music';
+    	end(thing, num);
+
+    }
+
+};
+var question = new questionTree(".questionTree");
+
+question.addQuestion("Do you suffer from insomnia?", ["●I agree","●I disagree"], ["1", "1"]);
+question.addQuestion("You often have a headache.", ["●I agree","●I disagree"], ["2", "2"]);
+question.addQuestion("You feel moody by the end of the day.", ["●I agree","●I disagree"], ["3", "3"]);
+question.addQuestion("You regulary cry.", ["●I agree","●I disagree"], ["4", "4"]);
+question.addQuestion("At the end of the work/school day, do you sometimes feel like it is all iseless?", ["●I agree","●I disagree"], ["5", "5"]);
+question.addQuestion("You frequently cannot make up your mind.", ["●I agree","●I disagree"], ["6", "6"]);
+question.addQuestion("You feel anxious even in front of you close friends.", ["●I agree","●I disagree"], ["7", "7"]);
+
+question.addQuestion("You turn pale in awkward situations.", ["●I agree","●I disagree"], ["8", "8"]);
+question.addQuestion("Do you ever eat without feeling hungry?", ["●I agree","●I disagree"], ["9", "9"]);
+question.addQuestion("It is very difficult for you to get out of bed in the morning.", ["●I agree","●I disagree"], ["10", "10"]);
+question.addQuestion("There are more gloomy and irritable people around these days.", ["●I agree","●I disagree"], ["11", "11"]);
+question.addQuestion("You want silence.", ["●I agree","●I disagree"], ["12", "12"]);
+question.addQuestion("You often get chills.", ["●I agree","●I disagree"], ["13", "13"]);
+question.addQuestion("You feel like you’ve become overly sentimental.", ["●I agree","●I disagree"], ["14", "14"]);
+question.addQuestion("Bright sunlight hurts your eyes.", ["●I agree","●I disagree"], ["15", "15"]);
+
+question.addQuestion("Молодец", ["end"]);
+
+question.startQuestions();
+
+
+</script>
+
 
 
 </div>
-
 </body>
 </html>
