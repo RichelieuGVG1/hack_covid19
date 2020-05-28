@@ -122,6 +122,7 @@ canvas{
 	right: 1px;
 	width: 80%;
 	height: auto;
+	z-index: 3;
 }
 #commandes{
 	position:absolute;
