@@ -149,12 +149,16 @@ canvas{
 	height: 100%;
 	z-index: 9999999999;
 }
-.btnplay{
+.btnplay[onClick="start()"]{
 	width: 30%;
 	font-size: 30px;
 	height: 7%;
 }
 
+}
+canvas{
+	width: 100%
+	height: auto;
 }
 
 
