@@ -192,6 +192,8 @@ const end = () => {
 			document.getElementById('state').innerText = 'CONGRATULATIONS! YOU WIN!';
 			document.getElementById('cptkill').innerText = kill + " KILLED";
 			document.getElementById('cptlost').innerText = lost + " LOST";
+
+			document.getElementById('ufo').style.display = 'none';
 			}, 2000);
 		
 	}
@@ -201,6 +203,8 @@ const end = () => {
 		document.getElementById('state').innerText = 'YOU LOOOOO0OSE IN ' + (180-cptTime) + " SECONDS. \nSTUPID BAG OF BONES!!";
 		document.getElementById('cptkill').innerText = kill + " KILLED";
 		document.getElementById('cptlost').innerText = lost + " LOST";
+
+		document.getElementById('ufo').style.display = 'none';
 	}
 };
 
