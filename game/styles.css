@@ -110,7 +110,14 @@ canvas{
 }
 
 
-/*#commandes{
+
+
+
+
+
+@media(max-width: 1199px){
+
+#commandes{
 	position:absolute;
 	bottom:0;
 	width:100%;
@@ -130,17 +137,14 @@ canvas{
 	justify-content:center;
 	box-shadow:inset 0 -2px 3px black,inset 0 2px 3px black;
 }
-.down{
-	background-color:#CF0D0D;
+.down, .shoot, .up{
+	border: 2px solid white;
+	color: white;
+	background-color: transparent;
 }
-.shoot{
-	background-color:#fff;
-	color:black;
+
 }
-.up{
-	background-color:#1F24DC;
-}
-*/
+
 
 
 
