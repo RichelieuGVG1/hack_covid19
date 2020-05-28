@@ -193,7 +193,7 @@ const end = () => {
 			document.getElementById('cptkill').innerText = kill + " KILLED";
 			document.getElementById('cptlost').innerText = lost + " LOST";
 
-
+			document.getElementById('ufo').style.display = 'none';
 			}, 2000);
 		
 	}
@@ -204,7 +204,7 @@ const end = () => {
 		document.getElementById('cptkill').innerText = kill + " KILLED";
 		document.getElementById('cptlost').innerText = lost + " LOST";
 
-		
+		document.getElementById('ufo').style.display = 'none';
 	}
 };
 
@@ -218,6 +218,7 @@ const checkTimer = () =>  {
 
 const start = () => {
 	document.getElementById('beginning').style.display = 'none';
+	document.getElementById('ufo').style.display = 'block';
 	intervalVirus = setInterval(newVirus, 500);
 };
 
@@ -244,6 +245,7 @@ const retry = () =>{
 	updateLife();
 	
 	document.getElementById('finish').style.display = 'none';
+	document.getElementById('ufo').style.display = 'block';
 };
 
 const signalDead = () => {
