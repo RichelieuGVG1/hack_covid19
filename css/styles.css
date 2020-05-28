@@ -277,20 +277,21 @@ a{
 }
 
 #return{
-	margin-left: 40%;
+	display: flex;
+	justify-content: center;
 
-	width: 20%;
+	
 	display: table;
 	color: white;
 	background-color: transparent;
 	font-size: 20px;
 	margin-top: 30px;
-	border: 5px solid white;
-	border-radius: 10px;
+	
 	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding: 5px 5px 5px 5px;
 	cursor: pointer;
+
+	margin-bottom: 20px;
 }
 .buttons{
 	/*padding-left: 80px;
@@ -313,6 +314,7 @@ a{
     height: 50px;
     width: 98%;
     padding-left: 20px;
+    padding-right: 20px;
     font-size: 40px;
     margin-top: 20px;
 }
@@ -343,7 +345,7 @@ a{
 	background-color: transparent;
 	color: white;
 	font-size: 22px;
-	margin-top: 30px;
+	margin-top: 50px;
 	border-radius: 10px;
 	width: 200px;
 	height: 50px;
@@ -455,7 +457,7 @@ ul{
 	list-style: none;
 }
 li{
-	margin-bottom: 30px;
-	margin-left: 10px;
-	margin-right: 10px;
+ 	margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 25px;
 }
