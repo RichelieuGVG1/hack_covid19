@@ -268,8 +268,9 @@ a{
 	margin-top: 50px;
 	color: white;
 	font-size: 40px;
-	margin-left: 16%;
-	height: 300px;
+	margin-left: 14%;
+	display: table;
+	padding-bottom: 50px;
 }
 .class-box{
 	width: 100%;
@@ -279,7 +280,7 @@ a{
 	margin-left: 40%;
 
 	width: 20%;
-	height: 30px;
+	display: table;
 	color: white;
 	background-color: transparent;
 	font-size: 20px;
@@ -288,16 +289,24 @@ a{
 	border-radius: 10px;
 	text-align: center;
 	padding-top: 5px;
+	padding-bottom: 5px;
 	cursor: pointer;
 }
 .buttons{
-	padding-left: 80px;
-	padding-bottom: 20px;
+	/*padding-left: 80px;
+	padding-bottom: 20px;*/
+	
+    
+	
+	display: flex;
+	flex-flow: column no-wrap;
+    justify-content: center;
+    
 
-	width: 22px;/*СЮРПРАЙЗ ЕПТА! ПАСХАЛОЧКА НАХУЙ! ПЕРЛ ХАРБОР БЛЯТЬ!*/
-	display: table;
 	cursor: pointer;
-	margin-top: 10px;
+	margin-top: 20px;
+	text-align: center;
+	align-items: center;
 }
 
 .questionTree .question{
@@ -307,12 +316,30 @@ a{
     font-size: 40px;
     margin-top: 20px;
 }
-
+@media(max-width: 1199px){
+	.questionTree .question{
+		font-size: 25px;
+	}
+	.buttons{
+		flex-wrap: wrap;
+	}
+	h2,h4{
+		font-size: 10px;
+		padding-left: 5px;
+	}
+	.altitude{
+		font-size: 10px;
+		margin-bottom: 10px;
+	}
+	.bot{
+		margin-bottom: 10px;
+		margin-left: 20px;
+	}
+}
 
 
 #huy{
-	position: absolute;
-	text-align: center;
+	
 	background-color: transparent;
 	color: white;
 	font-size: 22px;
@@ -321,7 +348,8 @@ a{
 	width: 200px;
 	height: 50px;
 	border: 5px solid white;
-	margin-left: 22%;
+	
+	box-sizing: content-box;
 }
 
 #select, #select1{
@@ -349,13 +377,13 @@ table{
 	padding-top: -20px;
 	cursor: pointer;
 }
-
+@media(min-width: 1199px){
 .altitude{
 	width: 100%;
 	height: 100px;
 	display: flex;
 	justify-content: space-around;
-}
+}}
 
 
 .main{
@@ -380,12 +408,12 @@ img{
 	border-top-left-radius:10px;
 	border-bottom-left-radius:10px;
 }
-
+@media(min-width: 1199px){
 h2, h4{
 	padding-left: 10px;
 	padding-right: 10px;
 	font-size: 30px;
-}
+}}
 #content{
 	display: flex;
 	width: 100%;
@@ -414,4 +442,20 @@ h2, h4{
 #it3
 {
 	display: none;
+}
+
+
+
+
+
+ul{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	list-style: none;
+}
+li{
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
