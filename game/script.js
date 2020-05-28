@@ -193,7 +193,7 @@ const end = () => {
 			document.getElementById('cptkill').innerText = kill + " KILLED";
 			document.getElementById('cptlost').innerText = lost + " LOST";
 
-			document.getElementById('ufo').style.display = 'none';
+
 			}, 2000);
 		
 	}
@@ -204,7 +204,7 @@ const end = () => {
 		document.getElementById('cptkill').innerText = kill + " KILLED";
 		document.getElementById('cptlost').innerText = lost + " LOST";
 
-		document.getElementById('ufo').style.display = 'none';
+		
 	}
 };
 
