@@ -301,6 +301,8 @@ class Shoot {
 		ctx.fillStyle = 'red';
 		ctx.arc(this.x, this.y,  3, 0, Math.PI * 2, true);
 		ctx.fill();
+
+		
 	}
 	update() {
 		for(let i = virus.length - 1; i >= 0; i--){
