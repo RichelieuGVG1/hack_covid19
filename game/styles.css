@@ -73,20 +73,7 @@ canvas{
 	position:absolute;
 	z-index:1;
 }
-#infos{
-	position: absolute;
-	top: 1px;
-	right: 1px;
-	width: 600px;
-	height: 60px;
-	display: flex;
-	flex-direction: inline;
-	justify-content: space-around;
-	z-index: 2;
-	color:silver;
-	font-size: 40px;
-	
-}
+
 .info{
 	width: 100%;
 	display: flex;
@@ -97,18 +84,31 @@ canvas{
 }
 #infosval{
 	position: absolute;
-	top: 60px;
+	top: 25px;
 	right: 1px;
-	width: 600px;
-	height: 60px;
+	width: 80%;
+	height: auto;
 	display: flex;
 	flex-direction: inline;
 	justify-content: space-around;
 	z-index: 2;
 	color: white;
-	font-size: 40px;
+	font-size: 20px;
 }
-
+#infos{
+	position: absolute;
+	top: 1px;
+	right: 1px;
+	width: 80%;
+	height: auto;
+	display: flex;
+	flex-direction: inline;
+	justify-content: space-around;
+	z-index: 2;
+	color:silver;
+	font-size: 20px;
+	
+}
 
 
 
