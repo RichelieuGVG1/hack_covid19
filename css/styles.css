@@ -75,7 +75,11 @@ html, body{
 	height: 50px;
 	width: 50px;
 }
-
+@media(max-width: 1199px){
+	h1[style^="font-size: 40px;"]{
+		margin-bottom: 30px;
+	}
+}
 
 
 #panel{
