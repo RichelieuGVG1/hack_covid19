@@ -208,7 +208,7 @@ p{
 	width: 350px;
 	height: 420px;
 	background-color: white;
-	/*border-radius: 10px;*/
+	border-radius: 10px;
 	/*margin-left: 100px;*/
 }
 
@@ -218,6 +218,7 @@ p{
 	height: 200px;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
+	border-bottom-left-radius: 0px;
 }
 #header{
 	font-size: 25px;
@@ -396,7 +397,7 @@ table{
 .box{
 	width: 80%;
 	background-color: white;
-	/*border-radius: 10px;*/
+	border-radius: 10px;
 	height: 300px;
 	color: black;
 
