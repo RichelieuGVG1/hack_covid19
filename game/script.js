@@ -41,7 +41,7 @@ const init = () => {
 	helico.style.top = posY + "px";
 	
 	virusImg = new Image();
-	virusImg.src = "https://st3.depositphotos.com/3384205/14170/i/450/depositphotos_141700882-stock-photo-3d-illustration-of-a-virus.jpg";
+	virusImg.src = "https://s8.hostingkartinok.com/uploads/images/2020/05/6bb0a74d8876c254b5d3e6d390d994f2.png";
 	
 	lost = 0;
 	kill = 0;
