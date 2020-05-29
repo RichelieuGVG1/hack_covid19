@@ -43,7 +43,7 @@ body {
 }
 h1{
 	padding:10px;
-	border:5px dashed white;
+	border:5px solid white;
 	width:310px;
 	font-size:1.5em;
 }
