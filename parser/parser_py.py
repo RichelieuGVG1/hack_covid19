@@ -20,8 +20,8 @@ try:
     def short_text(header_text):
     
         header_text=header_text[:len(header_text)-(len(header_text)-90)-5]
-        header_text+='[...]'
-        return header_text
+        
+        return header_text+='[...]'
             
     
     def parse_img (req):
