@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<link href="http://allfont.ru/allfont.css?fonts=comic-sans-ms" rel="stylesheet" type="text/css" />
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="https://vk.com/doc406806074_544924992?hash=94f4e2e399384476ac&dl=377ae64c72ff467aa8" type="image/x-icon" />
+	<meta name="viewport" content="width=device-width, minimum scale=1.0, maximum-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="https://vk.com/doc406806074_552331541?hash=15ee0e9ff1af381208&dl=727b704ae4741e8dd7">
+	<link rel="stylesheet" type="text/css" href="https://vk.com/doc406806074_552331547?hash=9dc5677817c3336333&dl=69114bb5b87b10cfd1">
+	<script src='js/jquery-3.4.1.min.js'></script>
+	
+	<script src="js/slideout.min.js"></script>
+
+	<script type="text/javascript">
+		var i=1;
+		function slider(){
+			i++;
+			if(i%2==0){
+				document.getElementById("panel").style.display = "block";
+			}
+			else{
+				document.getElementById("panel").style.display = "none";
+			}
+		}
+
+	</script>
+
+	<title>MENTLY</title>
+</head>
+<body>
+	<div id='menu'>
+		<div class='container' align="right">
+				<input type="checkbox" id="checkbox3" onclick="slider()" class="checkbox3 visuallyHidden">
+	        	<label for="checkbox3">
+	            	<div class="hamburger hamburger3">
+	                	<span class="bar bar1" ></span>
+	                	<span class="bar bar2" ></span>
+	                	<span class="bar bar3" ></span>
+	                	<span class="bar bar4" ></span>
+            		</div>
+        		</label>
+    		</div>
+    <div class='container3'>
+	<div class='container0'></div><!-- img/logotypes/surprise.html -->
+    <div class='container1'><a href="surprise.html"  style="cursor: default;"><img src="img/logo.png" style="display: none;">
+	
+</a>
+</div>
+    <div class='container2' style="padding-top: 10px; font-size: 25px; padding-right: 40px;">
+    	MENTLY
+
+
+    </div>
+    </div>
+
+	</div>
+	<div id='layout' style="display: table;  overflow: visible; background-image: none; background-color: #0c0e0e;">
+	<!--<img src="img/bg.png" id='back'>-->
+
+		<div id='panel' >
+			<a href="index.html" style="color: #c2c2c2;">
+				
+			<p >Main</p></a>
+			<a href="news.html" style="color: #c2c2c2;">
+				
+			<p>Corona-news</p></a>
+
+			<a href="game/game.html" style="color: #c2c2c2;">
+				<p>Game</p></a>
+			
+			<a href="bot.html" style="color: #c2c2c2;">
+				<p>Chat bot</p></a>
+			
+			<a href="test.html" style="color: #c2c2c2;">
+				<p>Health test</p></a>
+			
+		</div>
+
+		<h1 style="font-size: 40px; margin-top: 130px; margin-bottom: 80px; padding-left: 5px; padding-right: 5px;
+		">Most relevant news about COVID-19</h1>
+
+	<div id='table-container' style="display: table; overflow-x: scroll;">
+	<ul>
