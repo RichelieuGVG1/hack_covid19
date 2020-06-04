@@ -1,0 +1,1209 @@
+INFO:root:коронавирус+новости
++-умерло+-умерли+-швеция
+2020-06-04 13:19:28.869661
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:коронавирус+актуальные+новости
++-умерло+-умерли+-швеция
+2020-06-04 13:20:36.327973
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+ghftr
++-hgfd+-hgfd+-jghf
+2020-06-04 13:21:13.639206
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+gdfd
++-jhgf+-jvhgf+-jvh
+2020-06-04 13:21:44.368978
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+коронавирус+последние+новости
++-умерло+-смерт+-швеция
+2020-06-04 13:22:50.211691
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+kjhgfdsea
++-ghfds+-vhjcgfd+-hgfd
+2020-06-04 13:27:41.638083
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+пранкеры
++-контроль+-убит+-смерть
+2020-06-04 13:27:56.700486
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+коты+и+собаки
++-мультфильм+-человек+-животные
+2020-06-04 13:33:53.617671
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+кошки+и+собаки
++-человек+-мультик+-дом
+2020-06-04 13:34:34.884116
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+коронавирус
++-убиты+-смерть+-умерло
+2020-06-04 13:52:29.418282
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+коронавирус+новости
++-швеция+-умерло+-смерть
+2020-06-04 13:53:34.227965
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tverlife.ru
+INFO:root:
+
+коронавирус+новости
++-умерло+-умерли+-смерти
+2020-06-04 13:59:31.721968
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+коронавирус+новости
++-умерло+-умерли+-смерти
+2020-06-04 13:59:55.559536
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gorod48.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vestivrn.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sakhalin.info
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): stolica-s.su
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.dvnovosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): tvsamara.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.e1.ru
+INFO:root:
+
+коронавирус+актуальные+новости
++-флойд+-умерло+-умерли
+2020-06-04 14:03:26.301354
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:root:
+
+коронавирус+новости
++-флойд+-вашингтон+-умерло
+2020-06-04 14:11:01.247741
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): klops.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vedomosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vedomosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vedomosti.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:root:
+
+коронавирус+новости
++-флойд+-вашингтон+-умерло
+2020-06-04 15:15:30.207618
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:root:
+
+коронавирус+актуальные+новости
++-умерло+-умерли+-смерть
+2020-06-04 15:18:47.577859
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+актуальные+новости+коронавирус
++-умерли+-выплаты+-смерть
+2020-06-04 15:19:28.558937
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:root:
+
+актуальные+новости+коронавирус
++-умерли+-выплаты+-смерть
+2020-06-04 15:20:01.906365
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rospotrebnadzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bash.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bash.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bash.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): komiinform.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): komiinform.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): komiinform.ru
+INFO:root:
+
+коронавирус+актуальные+новости
++-умер+-невыплаты+-смерть
+2020-06-04 15:23:12.909303
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): m.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kem.kp.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:root:
+
+коронавирус+новости
++-флойд+-вашингтон+-умерло
+2020-06-04 15:24:51.638084
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): xn--80aesfpebagmfblc0a.xn--p1ai
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.mail.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.mail.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): news.mail.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:root:
+
+коронавирус+новости
++-флойд+-умерло+-вашингтон
+2020-06-04 15:36:22.711243
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:root:
+
+коронавирус+новости
++-флойд+-умерло+-вашингтон
+2020-06-04 15:41:53.142519
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:root:
+
+коронавирус+новости
++-флойд+-умерло+-сша
+2020-06-04 15:43:57.072911
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:root:
+
+коронавирус+новости
++-умерло+-флойд+-сша
+2020-06-04 15:49:20.998703
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:root:
+
+коронавирус+актуальные+новости
++-умерло+-умерли+-невыплаты
+2020-06-04 15:50:42.480302
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:root:
+
+коронавирус+последние+новости
++-умерло+-умерли+-смерть
+2020-06-04 15:51:49.432549
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.afanasy.biz
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.afanasy.biz
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.afanasy.biz
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gtrk.tv
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gtrk.tv
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gtrk.tv
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gazeta.a42.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gazeta.a42.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): gazeta.a42.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rabochy-put.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rabochy-put.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rabochy-put.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): don24.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): don24.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): don24.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.business-gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.business-gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.business-gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vzsar.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vzsar.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.vzsar.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ura.news
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.fontanka.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bcs-express.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bcs-express.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bcs-express.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): coronavirus-control.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): coronavirus-control.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): coronavirus-control.ru
+INFO:root:
+
+коронавирус+актуальные+новости
++-умерло+-умерли+-смерть
+2020-06-04 15:53:45.473932
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): fedpress.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): e.tspor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): bk55.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): vesti-yamal.ru
+INFO:root:
+
+коронавирус+новости
++-флойд+-умерло+-смерть
+2020-06-04 15:54:55.706536
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.rbc.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): zona.media
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): penzaobzor.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): lenta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.interfax.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.gazeta.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): snob.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ria.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): meduza.io
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.mos.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.kommersant.ru
