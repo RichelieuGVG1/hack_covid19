@@ -97,7 +97,7 @@ try:
                 date=re.sub(r'\s+', ' ', date)
                 if not '2020' in date:
                     import random
-                    date=f'0{random.randint(1, 4)} июня 2020'
+                    date=f'0{random.randint(1, 15)} июня 2020'
                     
                 if not 'http' in img_link and 'gazeta' not in img_link:
                     img_link=req[8:].split('/')[0]+img_link
