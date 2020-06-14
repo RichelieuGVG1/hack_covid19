@@ -21,7 +21,7 @@ try:
     
         header_text=header_text[:len(header_text)-(len(header_text)-90)-5]
         
-        return header_text+='[...]'
+        return header_text+'[...]'
             
     
     def parse_img (req):
